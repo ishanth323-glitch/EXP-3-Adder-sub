@@ -87,6 +87,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 
 <img width="1533" height="862" alt="half add" src="https://github.com/user-attachments/assets/e44e0b23-f399-4f66-89db-7531bb4740af" />
+
 <img width="1532" height="862" alt="half sub" src="https://github.com/user-attachments/assets/413f1734-59c8-4ea2-a24a-b5b89444ae1e" />
 
 
